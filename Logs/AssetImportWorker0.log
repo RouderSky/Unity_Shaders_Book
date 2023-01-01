@@ -139,3 +139,59 @@ Received Import Request.
 Start importing Assets/Shaders/Chapter9/Chapter9-ForwardRendering.shader using Guid(961192328a232456ca34f83032a2d06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2437f657224986c52061304be8b0b807') in 0.153194 seconds 
   Import took 0.158965 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 713.095049 seconds.
+  path: Assets/Shaders/Chapter7/Chapter7-NormalMapTangentSpace.shader
+  artifactKey: Guid(8599ea31011944d2b92327308c24b4d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Chapter7/Chapter7-NormalMapTangentSpace.shader using Guid(8599ea31011944d2b92327308c24b4d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48adfa1f232f0ad1e59a41e7ab316614') in 0.008103 seconds 
+  Import took 0.012643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1161.798401 seconds.
+  path: Assets/Shaders/Chapter7/Chapter7-NormalMapWorldSpace.shader
+  artifactKey: Guid(01074012f14cf471cae8b56108368075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Chapter7/Chapter7-NormalMapWorldSpace.shader using Guid(01074012f14cf471cae8b56108368075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd4d1ca68b709b44b54b06ad26b569b3') in 0.007650 seconds 
+  Import took 0.011506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3753.731927 seconds.
+  path: Assets/Shaders/Chapter8
+  artifactKey: Guid(9d524d966b7e84447a6d0ef01e1b1622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Chapter8 using Guid(9d524d966b7e84447a6d0ef01e1b1622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23ed308ddee1e09276f1e83a65ef496e') in 0.011094 seconds 
+  Import took 0.040838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.445734 seconds.
+  path: Assets/Shaders/Chapter9
+  artifactKey: Guid(2ff92d7760fbc4e67b012fe0bd7417e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Chapter9 using Guid(2ff92d7760fbc4e67b012fe0bd7417e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5082da35f01e6ad84039d40f15dd95cb') in 0.007796 seconds 
+  Import took 0.012866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.079491 seconds.
+  path: Assets/Shaders/Chapter7
+  artifactKey: Guid(65cda1c4711a943d595eed2baeee1fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Chapter7 using Guid(65cda1c4711a943d595eed2baeee1fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e4ab39c00f1c3addba947488058fac') in 0.011318 seconds 
+  Import took 0.017890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.485829 seconds.
+  path: Assets/Textures/Chapter7/Brick_Diffuse.JPG
+  artifactKey: Guid(d938a66d993e948deaed0109b1217675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Chapter7/Brick_Diffuse.JPG using Guid(d938a66d993e948deaed0109b1217675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48fe6c10bae2fa69b85cec941d14750c') in 0.246491 seconds 
+  Import took 0.250342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001945 seconds.
+  path: Assets/Textures/Chapter7/Brick_Normal.JPG
+  artifactKey: Guid(62ea63551f14847d18f8f258f74e14d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Chapter7/Brick_Normal.JPG using Guid(62ea63551f14847d18f8f258f74e14d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '050023e1dbf2aabe4b2c5242a6ae541a') in 0.052056 seconds 
+  Import took 0.055677 seconds .
+
